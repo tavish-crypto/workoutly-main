@@ -33,6 +33,7 @@ function App() {
             theme="light"
           />
           <Header />
+          <></>
           <main className="app-main">
             <Routes>
               <Route path="/" element={<Home />} />
